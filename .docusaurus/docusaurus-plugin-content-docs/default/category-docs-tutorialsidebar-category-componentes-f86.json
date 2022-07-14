@@ -1,0 +1,16 @@
+{
+  "title": "Componentes",
+  "description": "Todos os componentes usados no projeto.",
+  "slug": "/category/componentes",
+  "permalink": "/docs/category/componentes",
+  "navigation": {
+    "previous": {
+      "title": "Read Me",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "index.js",
+      "permalink": "/docs/tutorial-basics/"
+    }
+  }
+}

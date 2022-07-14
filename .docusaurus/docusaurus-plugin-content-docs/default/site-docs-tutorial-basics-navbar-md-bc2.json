@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/navbar",
+  "id": "tutorial-basics/navbar",
+  "title": "Navbar.js",
+  "description": "",
+  "source": "@site/docs/tutorial-basics/navbar.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/navbar",
+  "permalink": "/docs/tutorial-basics/navbar",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/navbar.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 18,
+  "frontMatter": {
+    "sidebar_position": 18
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TaskForm.js",
+    "permalink": "/docs/tutorial-basics/taskform"
+  },
+  "next": {
+    "title": "CSS",
+    "permalink": "/docs/tutorial-basics/styles"
+  }
+}

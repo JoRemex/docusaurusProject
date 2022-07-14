@@ -1,0 +1,447 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/joelremesso/Documents/UMa/GitHub/docuproject/docusaurusProject/sidebars.js",
+          "contentPath": "/Users/joelremesso/Documents/UMa/GitHub/docuproject/docusaurusProject/docs",
+          "contentPathLocalized": "/Users/joelremesso/Documents/UMa/GitHub/docuproject/docusaurusProject/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Read Me",
+              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Componentes",
+                "permalink": "/docs/category/componentes"
+              }
+            },
+            {
+              "unversionedId": "redux",
+              "id": "redux",
+              "title": "Redux e Docusaurus",
+              "description": "",
+              "source": "@site/docs/redux.md",
+              "sourceDirName": ".",
+              "slug": "/redux",
+              "permalink": "/docs/redux",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/redux.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "CSS",
+                "permalink": "/docs/tutorial-basics/styles"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/app",
+              "id": "tutorial-basics/app",
+              "title": "App.js",
+              "description": "",
+              "source": "@site/docs/tutorial-basics/app.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/app",
+              "permalink": "/docs/tutorial-basics/app",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/app.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "index.js",
+                "permalink": "/docs/tutorial-basics/"
+              },
+              "next": {
+                "title": "Detail.js",
+                "permalink": "/docs/tutorial-basics/detail"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/detail",
+              "id": "tutorial-basics/detail",
+              "title": "Detail.js",
+              "description": "",
+              "source": "@site/docs/tutorial-basics/detail.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/detail",
+              "permalink": "/docs/tutorial-basics/detail",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/detail.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "App.js",
+                "permalink": "/docs/tutorial-basics/app"
+              },
+              "next": {
+                "title": "EditTask.js",
+                "permalink": "/docs/tutorial-basics/edittask"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/edittask",
+              "id": "tutorial-basics/edittask",
+              "title": "EditTask.js",
+              "description": "",
+              "source": "@site/docs/tutorial-basics/edittask.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/edittask",
+              "permalink": "/docs/tutorial-basics/edittask",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/edittask.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Detail.js",
+                "permalink": "/docs/tutorial-basics/detail"
+              },
+              "next": {
+                "title": "RemoveTask.js",
+                "permalink": "/docs/tutorial-basics/removetask"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/index",
+              "id": "tutorial-basics/index",
+              "title": "index.js",
+              "description": "",
+              "source": "@site/docs/tutorial-basics/index.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/",
+              "permalink": "/docs/tutorial-basics/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Componentes",
+                "permalink": "/docs/category/componentes"
+              },
+              "next": {
+                "title": "App.js",
+                "permalink": "/docs/tutorial-basics/app"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/navbar",
+              "id": "tutorial-basics/navbar",
+              "title": "Navbar.js",
+              "description": "",
+              "source": "@site/docs/tutorial-basics/navbar.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/navbar",
+              "permalink": "/docs/tutorial-basics/navbar",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/navbar.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 18,
+              "frontMatter": {
+                "sidebar_position": 18
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "TaskForm.js",
+                "permalink": "/docs/tutorial-basics/taskform"
+              },
+              "next": {
+                "title": "CSS",
+                "permalink": "/docs/tutorial-basics/styles"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/removetask",
+              "id": "tutorial-basics/removetask",
+              "title": "RemoveTask.js",
+              "description": "",
+              "source": "@site/docs/tutorial-basics/removetask.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/removetask",
+              "permalink": "/docs/tutorial-basics/removetask",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/removetask.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "EditTask.js",
+                "permalink": "/docs/tutorial-basics/edittask"
+              },
+              "next": {
+                "title": "ResumeTable.js",
+                "permalink": "/docs/tutorial-basics/resumetable"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/resumetable",
+              "id": "tutorial-basics/resumetable",
+              "title": "ResumeTable.js",
+              "description": "",
+              "source": "@site/docs/tutorial-basics/resumetable.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/resumetable",
+              "permalink": "/docs/tutorial-basics/resumetable",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/resumetable.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "RemoveTask.js",
+                "permalink": "/docs/tutorial-basics/removetask"
+              },
+              "next": {
+                "title": "TaskForm.js",
+                "permalink": "/docs/tutorial-basics/taskform"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/styles",
+              "id": "tutorial-basics/styles",
+              "title": "CSS",
+              "description": "",
+              "source": "@site/docs/tutorial-basics/styles.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/styles",
+              "permalink": "/docs/tutorial-basics/styles",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/styles.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 18,
+              "frontMatter": {
+                "sidebar_position": 18
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Navbar.js",
+                "permalink": "/docs/tutorial-basics/navbar"
+              },
+              "next": {
+                "title": "Redux e Docusaurus",
+                "permalink": "/docs/redux"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/taskform",
+              "id": "tutorial-basics/taskform",
+              "title": "TaskForm.js",
+              "description": "",
+              "source": "@site/docs/tutorial-basics/taskform.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/taskform",
+              "permalink": "/docs/tutorial-basics/taskform",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/taskform.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ResumeTable.js",
+                "permalink": "/docs/tutorial-basics/resumetable"
+              },
+              "next": {
+                "title": "Navbar.js",
+                "permalink": "/docs/tutorial-basics/navbar"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Componentes",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/index"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/app"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/detail"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/edittask"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/removetask"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/resumetable"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/taskform"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/navbar"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/styles"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Todos os componentes usados no projeto.",
+                  "slug": "/category/componentes",
+                  "permalink": "/docs/category/componentes"
+                }
+              },
+              {
+                "type": "doc",
+                "id": "redux"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/index.md",
+            "source": "@site/blog/index.md",
+            "title": "Agradecimentos",
+            "description": "Docusaurus Plushie",
+            "date": "2022-07-14T15:32:58.000Z",
+            "formattedDate": "July 14, 2022",
+            "tags": [],
+            "readingTime": 0.015,
+            "hasTruncateMarker": false,
+            "authors": [],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Agradecimentos"
+            }
+          },
+          "content": "![Docusaurus Plushie](./asseco.jpeg)\n\n**Obrigado**"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

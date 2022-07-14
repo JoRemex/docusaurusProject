@@ -1,0 +1,142 @@
+{
+  "/__docusaurus/debug-db6": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugbcc-a09"
+    }
+  },
+  "/__docusaurus/debug/config-65a": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugbcc-a09"
+    }
+  },
+  "/__docusaurus/debug/content-26f": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugbcc-a09"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-800": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugbcc-a09"
+    }
+  },
+  "/__docusaurus/debug/metadata-9c4": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugbcc-a09"
+    }
+  },
+  "/__docusaurus/debug/registry-a46": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugbcc-a09"
+    }
+  },
+  "/__docusaurus/debug/routes-4ba": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugbcc-a09"
+    }
+  },
+  "/blog-fba": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blogcd-3-faa"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---bloga-42-c39"
+      }
+    ],
+    "metadata": "metadata---blogb-2-b-df1"
+  },
+  "/blog/archive-aaa": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---blogcd-3-faa"
+    },
+    "archive": "archive---blog-archiveb-2-f-393"
+  },
+  "/blog/welcome-854": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blogcd-3-faa"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcomedc-0-a01"
+  },
+  "/markdown-page-ad6": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-page-1-cc-e07"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-bfe": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docs-8-b-8-090"
+    },
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/category/componentes-7ef": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-componentes-8-b-3-c8f"
+  },
+  "/docs/intro-aed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/redux-25f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-redux-73-c-74b"
+  },
+  "/docs/tutorial-basics/-92f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-273-0d1"
+  },
+  "/docs/tutorial-basics/app-521": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-appaf-3-5c3"
+  },
+  "/docs/tutorial-basics/detail-4cc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-detail-863-7d3"
+  },
+  "/docs/tutorial-basics/edittask-52c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-edittask-062-114"
+  },
+  "/docs/tutorial-basics/navbar-cb9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-navbarbc-2-5a2"
+  },
+  "/docs/tutorial-basics/removetask-581": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-removetask-32-e-39c"
+  },
+  "/docs/tutorial-basics/resumetable-2a5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-resumetablee-21-fb2"
+  },
+  "/docs/tutorial-basics/styles-0e7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-styles-714-a59"
+  },
+  "/docs/tutorial-basics/taskform-9a8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-taskform-021-408"
+  },
+  "/-c29": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-page-1-cc-e07"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

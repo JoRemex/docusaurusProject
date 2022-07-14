@@ -1,0 +1,156 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Read Me",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "Componentes",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "index.js",
+            "href": "/docs/tutorial-basics/",
+            "docId": "tutorial-basics/index"
+          },
+          {
+            "type": "link",
+            "label": "App.js",
+            "href": "/docs/tutorial-basics/app",
+            "docId": "tutorial-basics/app"
+          },
+          {
+            "type": "link",
+            "label": "Detail.js",
+            "href": "/docs/tutorial-basics/detail",
+            "docId": "tutorial-basics/detail"
+          },
+          {
+            "type": "link",
+            "label": "EditTask.js",
+            "href": "/docs/tutorial-basics/edittask",
+            "docId": "tutorial-basics/edittask"
+          },
+          {
+            "type": "link",
+            "label": "RemoveTask.js",
+            "href": "/docs/tutorial-basics/removetask",
+            "docId": "tutorial-basics/removetask"
+          },
+          {
+            "type": "link",
+            "label": "ResumeTable.js",
+            "href": "/docs/tutorial-basics/resumetable",
+            "docId": "tutorial-basics/resumetable"
+          },
+          {
+            "type": "link",
+            "label": "TaskForm.js",
+            "href": "/docs/tutorial-basics/taskform",
+            "docId": "tutorial-basics/taskform"
+          },
+          {
+            "type": "link",
+            "label": "Navbar.js",
+            "href": "/docs/tutorial-basics/navbar",
+            "docId": "tutorial-basics/navbar"
+          },
+          {
+            "type": "link",
+            "label": "CSS",
+            "href": "/docs/tutorial-basics/styles",
+            "docId": "tutorial-basics/styles"
+          }
+        ],
+        "href": "/docs/category/componentes"
+      },
+      {
+        "type": "link",
+        "label": "Redux e Docusaurus",
+        "href": "/docs/redux",
+        "docId": "redux"
+      }
+    ]
+  },
+  "docs": {
+    "intro": {
+      "id": "intro",
+      "title": "Read Me",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "redux": {
+      "id": "redux",
+      "title": "Redux e Docusaurus",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/app": {
+      "id": "tutorial-basics/app",
+      "title": "App.js",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/detail": {
+      "id": "tutorial-basics/detail",
+      "title": "Detail.js",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/edittask": {
+      "id": "tutorial-basics/edittask",
+      "title": "EditTask.js",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/index": {
+      "id": "tutorial-basics/index",
+      "title": "index.js",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/navbar": {
+      "id": "tutorial-basics/navbar",
+      "title": "Navbar.js",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/removetask": {
+      "id": "tutorial-basics/removetask",
+      "title": "RemoveTask.js",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/resumetable": {
+      "id": "tutorial-basics/resumetable",
+      "title": "ResumeTable.js",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/styles": {
+      "id": "tutorial-basics/styles",
+      "title": "CSS",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/taskform": {
+      "id": "tutorial-basics/taskform",
+      "title": "TaskForm.js",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

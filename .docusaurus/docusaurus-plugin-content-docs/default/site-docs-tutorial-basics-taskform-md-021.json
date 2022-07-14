@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/taskform",
+  "id": "tutorial-basics/taskform",
+  "title": "TaskForm.js",
+  "description": "",
+  "source": "@site/docs/tutorial-basics/taskform.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/taskform",
+  "permalink": "/docs/tutorial-basics/taskform",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/taskform.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ResumeTable.js",
+    "permalink": "/docs/tutorial-basics/resumetable"
+  },
+  "next": {
+    "title": "Navbar.js",
+    "permalink": "/docs/tutorial-basics/navbar"
+  }
+}

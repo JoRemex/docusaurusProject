@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/resumetable",
+  "id": "tutorial-basics/resumetable",
+  "title": "ResumeTable.js",
+  "description": "",
+  "source": "@site/docs/tutorial-basics/resumetable.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/resumetable",
+  "permalink": "/docs/tutorial-basics/resumetable",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/resumetable.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RemoveTask.js",
+    "permalink": "/docs/tutorial-basics/removetask"
+  },
+  "next": {
+    "title": "TaskForm.js",
+    "permalink": "/docs/tutorial-basics/taskform"
+  }
+}

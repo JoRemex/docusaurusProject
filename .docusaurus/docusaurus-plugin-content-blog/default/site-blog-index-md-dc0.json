@@ -1,0 +1,17 @@
+{
+  "permalink": "/blog/welcome",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/index.md",
+  "source": "@site/blog/index.md",
+  "title": "Agradecimentos",
+  "description": "Docusaurus Plushie",
+  "date": "2022-07-14T15:32:58.000Z",
+  "formattedDate": "July 14, 2022",
+  "tags": [],
+  "readingTime": 0.015,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Agradecimentos"
+  }
+}

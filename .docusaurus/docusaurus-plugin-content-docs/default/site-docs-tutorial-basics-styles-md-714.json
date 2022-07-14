@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/styles",
+  "id": "tutorial-basics/styles",
+  "title": "CSS",
+  "description": "",
+  "source": "@site/docs/tutorial-basics/styles.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/styles",
+  "permalink": "/docs/tutorial-basics/styles",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/styles.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 18,
+  "frontMatter": {
+    "sidebar_position": 18
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Navbar.js",
+    "permalink": "/docs/tutorial-basics/navbar"
+  },
+  "next": {
+    "title": "Redux e Docusaurus",
+    "permalink": "/docs/redux"
+  }
+}

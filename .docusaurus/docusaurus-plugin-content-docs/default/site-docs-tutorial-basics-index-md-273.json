@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/index",
+  "id": "tutorial-basics/index",
+  "title": "index.js",
+  "description": "",
+  "source": "@site/docs/tutorial-basics/index.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/",
+  "permalink": "/docs/tutorial-basics/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Componentes",
+    "permalink": "/docs/category/componentes"
+  },
+  "next": {
+    "title": "App.js",
+    "permalink": "/docs/tutorial-basics/app"
+  }
+}
