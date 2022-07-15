@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/faviecon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -60,7 +60,7 @@ const config = {
         title: 'Inicio',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/React-icon.png',
         },
         items: [
           {
@@ -69,7 +69,7 @@ const config = {
             position: 'left',
             label: 'Projeto',
           },
-          {to: '/blog', label: 'Fim', position: 'left'},
+          {to: '/blog', label: '.', position: 'left'},
           {
             href: 'https://github.com/JoRemex?tab=repositories',
             label: 'GitHub',

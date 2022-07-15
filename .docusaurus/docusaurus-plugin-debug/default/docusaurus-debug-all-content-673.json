@@ -14,15 +14,15 @@
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/joelremesso/Documents/UMa/GitHub/docuproject/docusaurusProject/sidebars.js",
-          "contentPath": "/Users/joelremesso/Documents/UMa/GitHub/docuproject/docusaurusProject/docs",
-          "contentPathLocalized": "/Users/joelremesso/Documents/UMa/GitHub/docuproject/docusaurusProject/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/joelremesso/Documents/UMa/GitHub/docusaurusProject/sidebars.js",
+          "contentPath": "/Users/joelremesso/Documents/UMa/GitHub/docusaurusProject/docs",
+          "contentPathLocalized": "/Users/joelremesso/Documents/UMa/GitHub/docusaurusProject/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "intro",
               "id": "intro",
               "title": "Read Me",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "description": "https://github.com/JoRemex/projetoEstagio => Code => Download Zip",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
@@ -386,11 +386,11 @@
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/index.md",
             "source": "@site/blog/index.md",
             "title": "Agradecimentos",
-            "description": "Docusaurus Plushie",
+            "description": "Docusaie",
             "date": "2022-07-14T15:32:58.000Z",
             "formattedDate": "July 14, 2022",
             "tags": [],
-            "readingTime": 0.015,
+            "readingTime": 0.01,
             "hasTruncateMarker": false,
             "authors": [],
             "frontMatter": {
@@ -398,7 +398,7 @@
               "title": "Agradecimentos"
             }
           },
-          "content": "![Docusaurus Plushie](./asseco.jpeg)\n\n**Obrigado**"
+          "content": "![Docusaie](./asseco.jpeg)\n\n**Obrigado**"
         }
       ],
       "blogListPaginated": [

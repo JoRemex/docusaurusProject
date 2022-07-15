@@ -5,6 +5,6 @@ title: Agradecimentos
 
 
 
-![Docusaurus Plushie](./asseco.jpeg)
+![Docusaie](./asseco.jpeg)
 
 **Obrigado**

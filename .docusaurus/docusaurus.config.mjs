@@ -10,7 +10,7 @@ export default {
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/faviecon.ico",
   "organizationName": "facebook",
   "projectName": "docusaurus",
   "i18n": {
@@ -26,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/joelremesso/Documents/UMa/GitHub/docuproject/docusaurusProject/sidebars.js",
+          "sidebarPath": "/Users/joelremesso/Documents/UMa/GitHub/docusaurusProject/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -34,7 +34,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/Users/joelremesso/Documents/UMa/GitHub/docuproject/docusaurusProject/src/css/custom.css"
+          "customCss": "/Users/joelremesso/Documents/UMa/GitHub/docusaurusProject/src/css/custom.css"
         }
       }
     ]
@@ -44,7 +44,7 @@ export default {
       "title": "Inicio",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "src": "img/React-icon.png"
       },
       "items": [
         {
@@ -55,7 +55,7 @@ export default {
         },
         {
           "to": "/blog",
-          "label": "Fim",
+          "label": ".",
           "position": "left"
         },
         {
